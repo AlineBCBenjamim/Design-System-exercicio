@@ -1,0 +1,24 @@
+[
+    {
+        "brand": "Editora JBC",
+        "name": "Sakura Wars Trig Vol.01",
+        "priceDiscount":"32.99",
+        "priceNormal": "57.90",
+        "photo":"https://m.media-amazon.com/images/I/51WwAuoC6JL._SX343_BO1,204,203,200_.jpg"
+        
+    },
+    {
+        "brand": "Editora JBC",
+        "name": "Sakura Wars Trig Vol.02",
+        "priceDiscount":"40.50",
+        "priceNormal": "57.90",
+        "photo":"https://m.media-amazon.com/images/I/51u3hw8auPL._SX343_BO1,204,203,200_.jpg"
+    },
+    {
+        "brand": "Editora JBC",
+        "name": "Sakura Wars Trig Vol.03 ",
+        "priceDiscount":"40.50",
+        "priceNormal": "57.90",
+        "photo":"https://m.media-amazon.com/images/I/51WqRUjwuDL._SX327_BO1,204,203,200_.jpg"
+    }
+]
